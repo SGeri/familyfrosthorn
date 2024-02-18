@@ -1,0 +1,11 @@
+{
+  "name": "familyfrosthorn",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/SGeri/familyfronthorn",
+  "description": "Changes the sound of the loud horn to the beloved Family Frost song.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Clementinise-CustomSounds-2.2.0", 
+    "no00ob-LCSoundTool-1.4.0"
+  ]
+}
